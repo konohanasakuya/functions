@@ -1,5 +1,5 @@
 {
-  "name": "helloWorld",
+  "name": "createUserAccount",
   "version": "0.0.1",
   "dependencies": {
     "firebase-functions": "latest",
