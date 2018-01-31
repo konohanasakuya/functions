@@ -1,4 +1,8 @@
 {
   "name": "helloWorld",
   "version": "0.0.1",
+  "dependencies": {
+    "firebase-functions": "latest",
+    "firebase-admin": "latest"
+  }
 }
