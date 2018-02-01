@@ -1,5 +1,5 @@
 {
-  "name": "createUserAccount",
+  "name": "functions.https.onRequest",
   "version": "0.0.1",
   "dependencies": {
     "firebase-functions": "latest",
